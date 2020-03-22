@@ -1,0 +1,23 @@
+{
+  "name": "eslint-plugin-lodash-to-native",
+  "version": "0.0.0",
+  "description": "lodash to native",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin"
+  ],
+  "author": "Anna Tsukanova",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha tests --recursive"
+  },
+  "devDependencies": {
+    "eslint": "~3.9.1",
+    "mocha": "^3.1.2"
+  },
+  "engines": {
+    "node": "13.8.0"
+  },
+  "license": "ISC"
+}
