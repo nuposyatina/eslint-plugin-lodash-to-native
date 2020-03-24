@@ -5,7 +5,7 @@ module.exports.rules = {
 module.exports.configs = {
   recommended: {
     rules: {
-      'lodash-to-native/map': 2,
+      'lodash-to-native/map': "warn",
     },
   },
 };

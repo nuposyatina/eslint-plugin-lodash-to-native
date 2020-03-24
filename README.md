@@ -13,10 +13,8 @@ $ npm i eslint --save-dev
 Next, install `eslint-plugin-lodash-to-native`:
 
 ```
-$ npm install eslint-plugin-lodash-to-native --save-dev
+$ npm install https://github.com/nuposyatina/eslint-plugin-lodash-to-native --save-dev
 ```
-
-**Note:** If you installed ESLint globally (using the `-g` flag) then you must also install `eslint-plugin-lodash-to-native` globally.
 
 ## Usage
 
@@ -43,7 +41,7 @@ Then configure the rules you want to use under the rules section.
 
 ## Supported Rules
 
-* Fill in provided rules here
+lodash-to-native/map — fix lodash map method to native Array map method
 
 
 
